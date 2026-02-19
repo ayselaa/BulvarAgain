@@ -2154,33 +2154,23 @@
   transform: translate(835px, 117px);
 }
 
-
-
-
-
-
-
-
-
-
 /* B binasi */
 
 /*  2 ci mertebe 1 ci ev baslangic*/
 
-
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1200 {
   display: block;
 }
 
 #hareketliGrup_1200 {
-transform: translate(444px, 96px);
+  transform: translate(444px, 96px);
   display: none;
 }
 
 .pathtranslatemove_1200 path:first-child {
-    transform: translate(166px, -162px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(166px, -162px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev1-text1 {
@@ -2193,36 +2183,29 @@ transform: translate(444px, 96px);
   transform: translate(82px, 21px);
 }
 
-
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1200,
 #path2_1200 {
-    transform: translate(419px, 297px);
+  transform: translate(419px, 297px);
 }
 
 /*  2 ci mertebe 1 ci ev  son*/
 
-
-
-
-
-
 /*  2 ci mertebe 2 ci ev baslangic*/
 
-
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1201 {
   display: block;
 }
 
 #hareketliGrup_1201 {
-    transform: translate(691px, 96px);
+  transform: translate(691px, 96px);
   display: none;
 }
 
 .pathtranslatemove_1201 path:first-child {
-       transform: translate(408px, -142px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(408px, -142px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev2-text1 {
@@ -2235,23 +2218,17 @@ transform: translate(444px, 96px);
   transform: translate(82px, 21px);
 }
 
-
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1201,
 #path2_1201 {
-       transform: translate(669px, 264px);
+  transform: translate(669px, 264px);
 }
 
 /*  2 ci mertebe 2 ci ev  son*/
 
-
-
-
-
 /*  2 ci mertebe 3 cu ev baslangic*/
 
-
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1202 {
   display: block;
@@ -2263,7 +2240,7 @@ transform: translate(444px, 96px);
 }
 
 .pathtranslatemove_1202 path:first-child {
-       transform: translate(658px, -159px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(658px, -159px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev3-text1 {
@@ -2273,178 +2250,161 @@ transform: translate(444px, 96px);
   transform: translate(82px, -7px);
 }
 .slide-B2-ev3-text3 {
-  transform: translate(82px, 21px); 
+  transform: translate(82px, 21px);
 }
-
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1202,
 #path2_1202 {
-          transform: translate(958px, 264px);
+  transform: translate(958px, 264px);
 }
 
 /*  2 ci mertebe 3 cu ev  son*/
 
-
 /*  2 ci mertebe 4 cu ev baslangic*/
 
-
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1203 {
   display: block;
 }
 
 #hareketliGrup_1203 {
-transform: translate(70px, 455px);
+    transform: translate(420px, 581px);
   display: none;
 }
 
 .pathtranslatemove_1203 path:first-child {
-    transform: translate(166px, 62px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(166px, 62px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev4-text1 {
-  transform: translate(31px, 12px);
+  transform: translate(27px, 165px);
 }
 .slide-B2-ev4-text2 {
-  transform: translate(82px, -7px);
+  transform: translate(82px, 150px);
 }
 .slide-B2-ev4-text3 {
-  transform: translate(82px, 21px); 
+  transform: translate(82px, 180px);
 }
 
 .right-ellps {
-    transform: translate(225px, 9px);
+  transform: translate(225px, 9px);
 }
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1203,
 #path2_1203 {
-            transform: translate(427px, 431px);
+  transform: translate(427px, 431px);
 }
-
 
 /*  2 ci mertebe 4 cu ev  son*/
 
 /*  2 ci mertebe 5 ci ev baslangic*/
 
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1204 {
   display: block;
 }
 
 #hareketliGrup_1204 {
-    transform: translate(393px, 592px);
+  transform: translate(393px, 592px);
   display: none;
 }
 
 .pathtranslatemove_1204 path:first-child {
-          transform: translate(167px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
+  transform: translate(167px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev5-text1 {
-      transform: translate(27px, 166px);
+  transform: translate(27px, 166px);
 }
 .slide-B2-ev5-text2 {
-      transform: translate(74px, 149px);
+  transform: translate(74px, 149px);
 }
 .slide-B2-ev5-text3 {
-      transform: translate(74px, 176px);
+  transform: translate(74px, 176px);
 }
-
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1204,
 #path2_1204 {
-        transform: translate(408px, 557px);
+  transform: translate(408px, 557px);
 }
-
 
 /*  2 ci mertebe 5 ci ev  son*/
 
-
-
 /*  2 ci mertebe 6 ci ev baslangic*/
 
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1205 {
   display: block;
 }
 
 #hareketliGrup_1205 {
-     transform: translate(1118px, 461px);
+  transform: translate(900px, 581px);
   display: none;
 }
 
 .pathtranslatemove_1205 path:first-child {
-      transform: translate(670px, 63px) matrix(1.27, 0, 0, 1.09, 148, 342);
+  transform: translate(670px, 63px) matrix(1.27, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev6-text1 {
-  transform: translate(31px, 12px);
+  transform: translate(26px, 166px);
 }
 .slide-B2-ev6-text2 {
-  transform: translate(82px, -7px);
+  transform: translate(75px, 155px);
 }
 .slide-B2-ev6-text3 {
-  transform: translate(82px, 21px); 
+  transform: translate(75px, 180px);
 }
 
-
 .left-ellps {
-   transform: translate(-70px, 9px);
+  transform: translate(-70px, 9px);
 }
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1205,
 #path2_1205 {
-    transform: translate(949px, 438px);
+  transform: translate(949px, 438px);
 }
-
 
 /*  2 ci mertebe 6 ci ev  son*/
 
-
-
-
 /*  2 ci mertebe 7 ci ev baslangic*/
 
- /* Satisda olan erazi */
+/* Satisda olan erazi */
 
 .building__link_floor:hover #hareketliGrup_1206 {
   display: block;
 }
 
 #hareketliGrup_1206 {
-     transform: translate(979px, 592px);
+  transform: translate(979px, 592px);
   display: none;
 }
 
 .pathtranslatemove_1206 path:first-child {
-            transform: translate(677px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
+  transform: translate(677px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
 }
 
 .slide-B2-ev7-text1 {
-      transform: translate(27px, 166px);
+  transform: translate(27px, 166px);
 }
 .slide-B2-ev7-text2 {
-      transform: translate(74px, 149px);
+  transform: translate(74px, 149px);
 }
 .slide-B2-ev7-text3 {
-      transform: translate(74px, 176px);
+  transform: translate(74px, 176px);
 }
-
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 #path1_1206,
 #path2_1206 {
-         transform: translate(949px, 548px);
-}
-
+  transform: translate(949px, 548px);
 }
 
 /*  2 ci mertebe 7 ci ev  son*/
-

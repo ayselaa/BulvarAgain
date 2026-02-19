@@ -51,6 +51,26 @@
     padding-bottom: 2rem;
     border-bottom: 2px solid #7f784f40;
   }
+
+  /******************************  B  BLOKLARII  Baslangic   ******************************/
+
+  /******************************  2 ci mertebe 2 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1201 {
+    transform: translate(691px, 96px);
+    display: none;
+  }
+
+  .pathtranslatemove_1201 path:first-child {
+    transform: translate(408px, -142px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  }
+
+  #path1_1201,
+  #path2_1201 {
+    transform: translate(669px, 264px);
+  }
+  /******************************  2 ci mertebe 2 ci ev son  ******************************************************************/
+
   /******************************   A2 A3  BLOKLARII  Baslangic   ******************************/
 
   /**************************************************************************************************/
@@ -2788,6 +2808,132 @@
   .a2left-street {
     font-size: 12px !important;
   }
+
+
+
+
+  /******************************  B  BLOKLARII  Baslangic   ******************************/
+
+  /******************************  2 ci mertebe 1 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1200 {
+    transform: translate(327px, 29px);
+  }
+
+  .pathtranslatemove_1200 path:first-child {
+    transform: translate(24px, -231px) matrix(1.47, 0, 0, 1.43, 148, 342);
+  }
+  #path1_1200,
+  #path2_1200 {
+          transform: translate(325px, 217px);
+  }
+
+  /******************************  2 ci mertebe 1 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 2 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1201 {
+    transform: translate(688px, 29px);
+  }
+
+  .pathtranslatemove_1201 path:first-child {
+            transform: translate(358px, -211px) matrix(1.47, 0, 0, 1.46, 148, 342);
+  }
+  #path1_1201,
+  #path2_1201 {
+        transform: translate(660px, 217px);
+  }
+  /******************************  2 ci mertebe 2 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 3 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1202 {
+    transform: translate(990px, 29px);
+  }
+
+  .pathtranslatemove_1202 path:first-child {
+transform: translate(692px, -230px) matrix(1.44, 0, 0, 1.42, 148, 342);
+  }
+  #path1_1202,
+  #path2_1202 {
+            transform: translate(1046px, 217px);
+  }
+
+  /******************************  2 ci mertebe 3 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 4 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1203 {
+  transform: translate(295px, 656px);
+  }
+
+  .pathtranslatemove_1203 path:first-child {
+          transform: translate(32px, 62px) matrix(1.43, 0, 0, 1.45, 148, 342);
+  }
+  .right-ellps {
+    transform: translate(225px, 9px);
+  }
+
+  #path1_1203,
+  #path2_1203 {
+           transform: translate(332px, 447px);
+  }
+
+  /******************************  2 ci mertebe 4 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 5 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1204 {
+          transform: translate(326px, 666px);
+  }
+
+  .pathtranslatemove_1204 path:first-child {
+           transform: translate(33px, 203px) matrix(1.43, 0, 0, 1.47, 148, 342);
+  }
+
+  #path1_1204,
+  #path2_1204 {
+          transform: translate(332px, 612px);
+  }
+  /******************************  2 ci mertebe 5 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 6 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1205 {
+            transform: translate(1058px, 666px);
+  }
+
+  .pathtranslatemove_1205 path:first-child {
+          transform: translate(703px, 60px) matrix(1.69, 0, 0, 1.50, 148, 342);
+  }
+
+  .left-ellps {
+    transform: translate(-70px, 9px);
+  }
+  #path1_1205,
+  #path2_1205 {
+    transform: translate(1043px, 455px);
+  }
+
+  /******************************  2 ci mertebe 6 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 7 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1206 {
+transform: translate(1062px, 678px);
+    display: none;
+  }
+
+  .pathtranslatemove_1206 path:first-child {
+          transform: translate(704px, 201px) matrix(1.46, 0, 0, 1.47, 148, 342);
+  }
+  #path1_1206,
+  #path2_1206 {
+           transform: translate(1043px, 610px);
+  }
+
+  /******************************  2 ci mertebe 7 ci ev son  ******************************************************************/
+
+  /******************************  B  BLOKLARII  SON   ******************************/
+
+
+
+
   /************* A2 A3  "Blok isareleri" Satilmis eraziler ucun    *************/
 
   #path105-1,
@@ -4335,6 +4481,126 @@
 
   /* 3 ci slide son */
   /**************************************************************************************************/
+
+  /******************************  B  BLOKLARII  Baslangic   ******************************/
+
+  /******************************  2 ci mertebe 1 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1200 {
+    transform: translate(327px, 29px);
+  }
+
+  .pathtranslatemove_1200 path:first-child {
+    transform: translate(24px, -231px) matrix(1.47, 0, 0, 1.43, 148, 342);
+  }
+  #path1_1200,
+  #path2_1200 {
+          transform: translate(325px, 217px);
+  }
+
+  /******************************  2 ci mertebe 1 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 2 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1201 {
+    transform: translate(688px, 29px);
+  }
+
+  .pathtranslatemove_1201 path:first-child {
+            transform: translate(358px, -211px) matrix(1.47, 0, 0, 1.46, 148, 342);
+  }
+  #path1_1201,
+  #path2_1201 {
+        transform: translate(660px, 217px);
+  }
+  /******************************  2 ci mertebe 2 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 3 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1202 {
+    transform: translate(990px, 29px);
+  }
+
+  .pathtranslatemove_1202 path:first-child {
+transform: translate(692px, -230px) matrix(1.44, 0, 0, 1.42, 148, 342);
+  }
+  #path1_1202,
+  #path2_1202 {
+            transform: translate(1046px, 217px);
+  }
+
+  /******************************  2 ci mertebe 3 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 4 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1203 {
+  transform: translate(295px, 656px);
+  }
+
+  .pathtranslatemove_1203 path:first-child {
+          transform: translate(32px, 62px) matrix(1.43, 0, 0, 1.45, 148, 342);
+  }
+  .right-ellps {
+    transform: translate(225px, 9px);
+  }
+
+  #path1_1203,
+  #path2_1203 {
+           transform: translate(332px, 447px);
+  }
+
+  /******************************  2 ci mertebe 4 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 5 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1204 {
+          transform: translate(326px, 666px);
+  }
+
+  .pathtranslatemove_1204 path:first-child {
+           transform: translate(33px, 203px) matrix(1.43, 0, 0, 1.47, 148, 342);
+  }
+
+  #path1_1204,
+  #path2_1204 {
+          transform: translate(332px, 612px);
+  }
+  /******************************  2 ci mertebe 5 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 6 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1205 {
+            transform: translate(1058px, 666px);
+  }
+
+  .pathtranslatemove_1205 path:first-child {
+          transform: translate(703px, 60px) matrix(1.69, 0, 0, 1.50, 148, 342);
+  }
+
+  .left-ellps {
+    transform: translate(-70px, 9px);
+  }
+  #path1_1205,
+  #path2_1205 {
+    transform: translate(1043px, 455px);
+  }
+
+  /******************************  2 ci mertebe 6 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 7 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1206 {
+transform: translate(1062px, 678px);
+    display: none;
+  }
+
+  .pathtranslatemove_1206 path:first-child {
+          transform: translate(704px, 201px) matrix(1.46, 0, 0, 1.47, 148, 342);
+  }
+  #path1_1206,
+  #path2_1206 {
+           transform: translate(1043px, 610px);
+  }
+
+  /******************************  2 ci mertebe 7 ci ev son  ******************************************************************/
+
+  /******************************  B  BLOKLARII  SON   ******************************/
+
   /************* A2 A3  "Blok isareleri" Satilmis eraziler ucun    *************/
   #path105-1,
   #path105-2 {
@@ -5058,6 +5324,127 @@
   }
 
   /* 3 ci slide son */
+
+  /******************************  B  BLOKLARII  Baslangic   ******************************/
+
+  /******************************  2 ci mertebe 1 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1200 {
+    transform: translate(380px, 75px);
+    display: none;
+  }
+
+  .pathtranslatemove_1200 path:first-child {
+    transform: translate(109px, -188px) matrix(1.25, 0, 0, 1.25, 148, 342);
+  }
+  #path1_1200,
+  #path2_1200 {
+    transform: translate(374px, 278px);
+  }
+
+  /******************************  2 ci mertebe 1 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 2 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1201 {
+    transform: translate(688px, 75px);
+  }
+
+  .pathtranslatemove_1201 path:first-child {
+    transform: translate(382px, -172px) matrix(1.24, 0, 0, 1.27, 148, 342);
+  }
+  #path1_1201,
+  #path2_1201 {
+    transform: translate(669px, 255px);
+  }
+  /******************************  2 ci mertebe 2 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 3 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1202 {
+    transform: translate(990px, 75px);
+  }
+
+  .pathtranslatemove_1202 path:first-child {
+    transform: translate(670px, -186px) matrix(1.25, 0, 0, 1.24, 148, 342);
+  }
+  #path1_1202,
+  #path2_1202 {
+    transform: translate(986px, 255px);
+  }
+
+  /******************************  2 ci mertebe 3 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 4 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1203 {
+        transform: translate(406px, 620px);
+  }
+
+  .pathtranslatemove_1203 path:first-child {
+    transform: translate(109px, 62px) matrix(1.23, 0, 0, 1.23, 148, 342);
+  }
+  .right-ellps {
+    transform: translate(225px, 9px);
+  }
+
+  #path1_1203,
+  #path2_1203 {
+    transform: translate(383px, 440px);
+  }
+
+  /******************************  2 ci mertebe 4 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 5 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1204 {
+    transform: translate(393px, 592px);
+    display: none;
+  }
+
+  .pathtranslatemove_1204 path:first-child {
+    transform: translate(109px, 187px) matrix(1.23, 0, 0, 1.22, 148, 342);
+  }
+
+  #path1_1204,
+  #path2_1204 {
+    transform: translate(383px, 578px);
+  }
+  /******************************  2 ci mertebe 5 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 6 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1205 {
+            transform: translate(909px, 620px);
+  }
+
+  .pathtranslatemove_1205 path:first-child {
+    transform: translate(684px, 63px) matrix(1.44, 0, 0, 1.24, 148, 342);
+  }
+
+  .left-ellps {
+    transform: translate(-70px, 9px);
+  }
+  #path1_1205,
+  #path2_1205 {
+    transform: translate(982px, 443px);
+  }
+
+  /******************************  2 ci mertebe 6 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 7 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1206 {
+    transform: translate(1062px, 627px);
+    display: none;
+  }
+
+  .pathtranslatemove_1206 path:first-child {
+    transform: translate(683px, 181px) matrix(1.26, 0, 0, 1.26, 148, 342);
+  }
+  #path1_1206,
+  #path2_1206 {
+    transform: translate(982px, 578px);
+  }
+
+  /******************************  2 ci mertebe 7 ci ev son  ******************************************************************/
+
+  /******************************  B  BLOKLARII  SON   ******************************/
 
   /* 2 ci slide baslangic */
   /**************************************************************************************************/
