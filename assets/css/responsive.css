@@ -2215,15 +2215,124 @@ transform: translate(729px, 59px) matrix(2.06, 0, 0, 1.79, 148, 342);
 
   /******************************  2 ci mertebe 7 ci ev son  ******************************************************************/
 
+
+/* 3 cu mertebe */
+
+
+  /******************************  2 ci mertebe 1 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1207 {
+    transform: translate(289px, -30px);
+  }
+
+  .pathtranslatemove_1207 path:first-child {
+        transform: translate(-90px, -258px) matrix(1.77, 0, 0, 1.75, 148, 342);
+        }
+  #path1_1207,
+  #path2_1207 {
+    transform: translate(270px, 171px);
+  }
+
+  /******************************  2 ci mertebe 1 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 2 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1208 {
+            transform: translate(673px, -30px);
+  }
+
+  .pathtranslatemove_1208 path:first-child {
+                 transform: translate(308px, -268px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  #path1_1208,
+  #path2_1208 {
+           transform: translate(660px, 171px);
+  }
+  /******************************  2 ci mertebe 2 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 3 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1209 {
+            transform: translate(1095px, -30px);
+  }
+
+  .pathtranslatemove_1209 path:first-child {
+        transform: translate(710px, -267px) matrix(1.76, 0, 0, 1.75, 148, 342);  }
+  #path1_1209,
+  #path2_1209 {
+          transform: translate(1091px, 171px);
+  }
+
+  /******************************  2 ci mertebe 3 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 4 ci ev baslangic  ******************************************************************/
+
+  #hareketliGrup_1210 {
+            transform: translate(248px, 695px);
+  }
+
+  .pathtranslatemove_1210 path:first-child {
+            transform: translate(-76px, 60px) matrix(1.72, 0, 0, 1.72, 148, 342);
+  }
+
+
+  #path1_1210,
+  #path2_1210 {
+           transform: translate(264px, 455px);
+  }
+
+  /******************************  2 ci mertebe 4 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 5 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1211 {
+           transform: translate(256px, 741px);
+  }
+
+  .pathtranslatemove_1211 path:first-child {
+                 transform: translate(-79px, 231px) matrix(1.71, 0, 0, 1.76, 148, 342);
+  }
+
+  #path1_1211,
+  #path2_1211 {
+           transform: translate(268px, 657px);
+  }
+  /******************************  2 ci mertebe 5 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 6 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1212 {
+          transform: translate(1030px, 701px);
+
+  }
+
+  .pathtranslatemove_1212 path:first-child {
+transform: translate(729px, 59px) matrix(2.06, 0, 0, 1.79, 148, 342);
+  }
+
+  #path1_1212,
+  #path2_1212 {
+          transform: translate(1098px, 455px);
+  }
+
+  /******************************  2 ci mertebe 6 ci ev son  ******************************************************************/
+
+  /******************************  2 ci mertebe 7 ci ev baslangic  ******************************************************************/
+  #hareketliGrup_1213 {
+          transform: translate(1135px, 750px);
+    display: none;
+  }
+
+  .pathtranslatemove_1213 path:first-child {
+              transform: translate(736px, 227px) matrix(1.79, 0, 0, 1.78, 148, 342);
+  }
+  #path1_1213,
+  #path2_1213 {
+           transform: translate(1098px, 653px);
+  }
+
+  /******************************  2 ci mertebe 7 ci ev son  ******************************************************************/
+
+
+
+
   /******************************  B  BLOKLARII  SON   ******************************/
-
-
-
-
-
-
-
-
 
 
 
