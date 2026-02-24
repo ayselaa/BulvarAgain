@@ -2595,3 +2595,127 @@
 }
 
 /*  3 ci mertebe 7 ci ev  son*/
+
+
+/* 16 ci mertebe ev 1 */
+
+.building__link_floor:hover .hareketliGrup_1307 {
+  display: block;
+}
+.hareketliGrup_1307 {
+  transform: translate(444px, 96px);
+  display: none;
+}
+
+.pathtranslatemove_1307 path:first-child {
+    transform: translate(161px, -140px) matrix(1.09, 0, 0, 1.09, 148, 342);
+}
+.path1_1307,
+.path2_1307 {
+    transform: translate(425px, 362px);
+}
+
+
+/*  16 ci mertebe 2 ci ev baslangic*/
+
+.building__link_floor:hover .hareketliGrup_1308 {
+  display: block;
+}
+
+.hareketliGrup_1308 {
+  transform: translate(691px, 96px);
+  display: none;
+}
+
+.pathtranslatemove_1308 path:first-child {
+transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
+}
+
+.path1_1308,
+.path2_1308 {
+  transform: translate(669px, 264px);
+}
+
+
+
+/*  16 cu mertebe 3 ci ev*/
+.building__link_floor:hover .hareketliGrup_1309 {
+  display: block;
+}
+
+.hareketliGrup_1309 {
+  transform: translate(975px, 96px);
+  display: none;
+}
+
+.pathtranslatemove_1309 path:first-child {
+    transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  }
+
+.path1_1309,
+.path2_1309 {
+  transform: translate(958px, 264px);
+}
+
+
+/*  16 ci mertebe 4 cu ev baslangic*/
+
+.building__link_floor:hover .hareketliGrup_1311 {
+  display: block;
+}
+
+.hareketliGrup_1311 {
+  transform: translate(393px, 592px);
+  display: none;
+}
+
+.pathtranslatemove_1311 path:first-child {
+    transform: translate(161px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
+}
+
+.path1_1311,
+.path2_1311 {
+  transform: translate(408px, 557px);
+}
+
+/*  16 ci mertebe 5 ci ev baslangic*/
+
+
+.building__link_floor:hover .hareketliGrup_1312 {
+  display: block;
+}
+
+.hareketliGrup_1312 {
+  transform: translate(900px, 581px);
+  display: none;
+}
+
+.pathtranslatemove_1312 path:first-child {
+  transform: translate(670px, 63px) matrix(1.27, 0, 0, 1.09, 148, 342);
+}
+
+.path1_1312,
+.path2_1312 {
+  transform: translate(949px, 438px);
+}
+
+
+/*  16 ci mertebe 6 ci ev baslangic*/
+
+.building__link_floor:hover .hareketliGrup_1313 {
+  display: block;
+}
+
+.hareketliGrup_1313 {
+  transform: translate(979px, 592px);
+  display: none;
+}
+
+.pathtranslatemove_1313 path:first-child {
+  transform: translate(677px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
+}
+
+.path1_1313,
+.path2_1213 {
+  transform: translate(949px, 548px);
+}

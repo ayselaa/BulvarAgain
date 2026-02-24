@@ -299,6 +299,91 @@
 
   /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
 
+  /* 16 ci mertebe ev 1 */
+
+  .hareketliGrup_1307 {
+    transform: translate(289px, -30px);
+  }
+
+  .pathtranslatemove_1307 path:first-child {
+    transform: translate(-89px, -262px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1307,
+  .path2_1307 {
+    transform: translate(246px, 217px);
+  }
+  /*  16 ci mertebe 2 ci ev baslangic*/
+
+  .hareketliGrup_1308 {
+    transform: translate(673px, -30px);
+  }
+
+  .pathtranslatemove_1308 path:first-child {
+    transform: translate(308px, -264px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1308,
+  .path2_1308 {
+    transform: translate(660px, 203px);
+  }
+
+  /*  16 cu mertebe 3 ci ev*/
+
+  .hareketliGrup_1309 {
+    transform: translate(1095px, -30px);
+  }
+
+  .pathtranslatemove_1309 path:first-child {
+    transform: translate(713px, -263px) matrix(1.76, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1309,
+  .path2_1309 {
+    transform: translate(1120px, 203px);
+  }
+
+  /*  16 ci mertebe 4 cu ev baslangic*/
+  .hareketliGrup_1311 {
+    transform: translate(256px, 741px);
+  }
+
+  .pathtranslatemove_1311 path:first-child {
+    transform: translate(-79px, 231px) matrix(1.71, 0, 0, 1.76, 148, 342);
+  }
+
+  .path1_1311,
+  .path2_1311 {
+    transform: translate(268px, 657px);
+  }
+
+  /*  16 ci mertebe 5 ci ev baslangic*/
+
+  .hareketliGrup_1312 {
+    transform: translate(1030px, 701px);
+  }
+
+  .pathtranslatemove_1312 path:first-child {
+    transform: translate(729px, 59px) matrix(2.06, 0, 0, 1.79, 148, 342);
+  }
+
+  .path1_1312,
+  .path2_1312 {
+    transform: translate(1098px, 455px);
+  }
+
+  /*  16 ci mertebe 6 ci ev baslangic*/
+
+  .hareketliGrup_1313 {
+    transform: translate(1135px, 750px);
+    display: none;
+  }
+
+  .pathtranslatemove_1313 path:first-child {
+    transform: translate(729px, 227px) matrix(1.76, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1313,
+  .path2_1313 {
+    transform: translate(1098px, 653px);
+  }
+
   /******************************  B  BLOKLARII  SON   ******************************/
 
   /******************************   A2 A3  BLOKLARII  Baslangic   ******************************/
@@ -1205,6 +1290,91 @@
   }
 
   /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
+
+  /* 16 ci mertebe ev 1 */
+
+  .hareketliGrup_1307 {
+    transform: translate(289px, -30px);
+  }
+
+  .pathtranslatemove_1307 path:first-child {
+    transform: translate(-89px, -262px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1307,
+  .path2_1307 {
+    transform: translate(246px, 217px);
+  }
+  /*  16 ci mertebe 2 ci ev baslangic*/
+
+  .hareketliGrup_1308 {
+    transform: translate(673px, -30px);
+  }
+
+  .pathtranslatemove_1308 path:first-child {
+    transform: translate(308px, -264px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1308,
+  .path2_1308 {
+    transform: translate(660px, 203px);
+  }
+
+  /*  16 cu mertebe 3 ci ev*/
+
+  .hareketliGrup_1309 {
+    transform: translate(1095px, -30px);
+  }
+
+  .pathtranslatemove_1309 path:first-child {
+    transform: translate(713px, -263px) matrix(1.76, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1309,
+  .path2_1309 {
+    transform: translate(1120px, 203px);
+  }
+
+  /*  16 ci mertebe 4 cu ev baslangic*/
+  .hareketliGrup_1311 {
+    transform: translate(256px, 741px);
+  }
+
+  .pathtranslatemove_1311 path:first-child {
+    transform: translate(-79px, 231px) matrix(1.71, 0, 0, 1.76, 148, 342);
+  }
+
+  .path1_1311,
+  .path2_1311 {
+    transform: translate(268px, 657px);
+  }
+
+  /*  16 ci mertebe 5 ci ev baslangic*/
+
+  .hareketliGrup_1312 {
+    transform: translate(1030px, 701px);
+  }
+
+  .pathtranslatemove_1312 path:first-child {
+    transform: translate(729px, 59px) matrix(2.06, 0, 0, 1.79, 148, 342);
+  }
+
+  .path1_1312,
+  .path2_1312 {
+    transform: translate(1098px, 455px);
+  }
+
+  /*  16 ci mertebe 6 ci ev baslangic*/
+
+  .hareketliGrup_1313 {
+    transform: translate(1135px, 750px);
+    display: none;
+  }
+
+  .pathtranslatemove_1313 path:first-child {
+    transform: translate(729px, 227px) matrix(1.76, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1313,
+  .path2_1313 {
+    transform: translate(1098px, 653px);
+  }
 
   /******************************  B  BLOKLARII  SON   ******************************/
 
@@ -2391,7 +2561,6 @@
   /******************************  2 ci mertebe 7 ci ev baslangic  ******************************************************************/
   #hareketliGrup_1206 {
     transform: translate(1135px, 750px);
-    display: none;
   }
 
   .pathtranslatemove_1206 path:first-child {
@@ -2514,6 +2683,91 @@
   }
 
   /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
+
+  /* 16 ci mertebe ev 1 */
+
+  .hareketliGrup_1307 {
+    transform: translate(289px, -30px);
+  }
+
+  .pathtranslatemove_1307 path:first-child {
+    transform: translate(-90px, -258px) matrix(1.77, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1307,
+  .path2_1307 {
+    transform: translate(270px, 171px);
+  }
+  /*  16 ci mertebe 2 ci ev baslangic*/
+
+  .hareketliGrup_1308 {
+    transform: translate(673px, -30px);
+  }
+
+  .pathtranslatemove_1308 path:first-child {
+    transform: translate(308px, -268px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1308,
+  .path2_1308 {
+    transform: translate(660px, 171px);
+  }
+
+  /*  16 cu mertebe 3 ci ev*/
+
+  .hareketliGrup_1309 {
+    transform: translate(1095px, -30px);
+  }
+
+  .pathtranslatemove_1309 path:first-child {
+    transform: translate(710px, -267px) matrix(1.76, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1309,
+  .path2_1309 {
+    transform: translate(1091px, 171px);
+  }
+
+  /*  16 ci mertebe 4 cu ev baslangic*/
+  .hareketliGrup_1311 {
+    transform: translate(256px, 741px);
+  }
+
+  .pathtranslatemove_1311 path:first-child {
+    transform: translate(-94px, 231px) matrix(1.71, 0, 0, 1.76, 148, 342);
+  }
+
+  .path1_1311,
+  .path2_1311 {
+    transform: translate(268px, 657px);
+  }
+
+  /*  16 ci mertebe 5 ci ev baslangic*/
+
+  .hareketliGrup_1312 {
+    transform: translate(1030px, 701px);
+  }
+
+  .pathtranslatemove_1312 path:first-child {
+    transform: translate(729px, 59px) matrix(2.06, 0, 0, 1.79, 148, 342);
+  }
+
+  .path1_1312,
+  .path2_1312 {
+    transform: translate(1098px, 455px);
+  }
+
+  /*  16 ci mertebe 6 ci ev baslangic*/
+
+  .hareketliGrup_1313 {
+    transform: translate(1135px, 750px);
+    display: none;
+  }
+
+  .pathtranslatemove_1313 path:first-child {
+    transform: translate(736px, 227px) matrix(1.79, 0, 0, 1.78, 148, 342);
+  }
+  .path1_1313,
+  .path2_1313 {
+    transform: translate(1098px, 653px);
+  }
 
   /******************************  B  BLOKLARII  SON   ******************************/
 
@@ -3616,7 +3870,7 @@
     transform: translate(1098px, 653px);
   }
 
-  /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
+  /******************************  2 ci mertebe 7 ci ev son  ******************************************************************/
 
   /* 3 cu mertebe */
 
@@ -3729,6 +3983,89 @@
 
   /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
 
+  /* 16 ci mertebe ev 1 */
+
+  .hareketliGrup_1307 {
+    transform: translate(289px, -30px);
+  }
+
+  .pathtranslatemove_1307 path:first-child {
+    transform: translate(-80px, -262px) matrix(1.74, 0, 0, 1.74, 148, 342);
+  }
+  .path1_1307,
+  .path2_1307 {
+    transform: translate(270px, 171px);
+  }
+
+  /*  16 ci mertebe 2 ci ev baslangic*/
+
+  .hareketliGrup_1308 {
+    transform: translate(673px, -30px);
+  }
+
+  .pathtranslatemove_1308 path:first-child {
+    transform: translate(308px, -264px) matrix(1.73, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1308,
+  .path2_1308 {
+    transform: translate(660px, 171px);
+  }
+  /*  16 cu mertebe 3 ci ev*/
+
+  .hareketliGrup_1309 {
+    transform: translate(1095px, -30px);
+  }
+
+  .pathtranslatemove_1309 path:first-child {
+    transform: translate(710px, -260px) matrix(1.74, 0, 0, 1.73, 148, 342);
+  }
+  .path1_1309,
+  .path2_1309 {
+    transform: translate(1091px, 171px);
+  }
+
+  /*  16 ci mertebe 4 cu ev baslangic*/
+  .hareketliGrup_1311 {
+    transform: translate(256px, 741px);
+  }
+
+  .pathtranslatemove_1311 path:first-child {
+    transform: translate(-74px, 228px) matrix(1.71, 0, 0, 1.76, 148, 342);
+  }
+
+  .path1_1311,
+  .path2_1311 {
+    transform: translate(268px, 657px);
+  }
+  /*  16 ci mertebe 5 ci ev baslangic*/
+
+  .hareketliGrup_1312 {
+    transform: translate(1030px, 701px);
+  }
+
+  .pathtranslatemove_1312 path:first-child {
+    transform: translate(729px, 59px) matrix(2.02, 0, 0, 1.77, 148, 342);
+  }
+
+  .path1_1312,
+  .path2_1312 {
+    transform: translate(1098px, 455px);
+  }
+
+  /*  16 ci mertebe 6 ci ev baslangic*/
+
+  .hareketliGrup_1313 {
+    transform: translate(1135px, 750px);
+    display: none;
+  }
+
+  .pathtranslatemove_1313 path:first-child {
+    transform: translate(729px, 227px) matrix(1.76, 0, 0, 1.75, 148, 342);
+  }
+  .path1_1313,
+  .path2_1313 {
+    transform: translate(1098px, 653px);
+  }
   /******************************  B  BLOKLARII  SON   ******************************/
 
   /************* A2 A3  "Blok isareleri" Satilmis eraziler ucun    *************/
@@ -5507,6 +5844,92 @@
 
   /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
 
+  /* 16 ci mertebe ev 1 */
+
+  .hareketliGrup_1307 {
+    transform: translate(327px, 29px);
+  }
+
+  .pathtranslatemove_1307 path:first-child {
+    transform: translate(24px, -202px) matrix(1.47, 0, 0, 1.43, 148, 342);
+  }
+  .path1_1307,
+  .path2_1307 {
+    transform: translate(325px, 217px);
+  }
+
+  /*  16 ci mertebe 2 ci ev baslangic*/
+
+  .hareketliGrup_1308 {
+    transform: translate(688px, 29px);
+  }
+
+  .pathtranslatemove_1308 path:first-child {
+    transform: translate(358px, -211px) matrix(1.47, 0, 0, 1.46, 148, 342);
+  }
+  .path1_1308,
+  .path2_1308 {
+    transform: translate(660px, 217px);
+  }
+
+  /*  16 cu mertebe 3 ci ev*/
+
+  .hareketliGrup_1309 {
+    transform: translate(990px, 29px);
+  }
+
+  .pathtranslatemove_1309 path:first-child {
+    transform: translate(692px, -204px) matrix(1.44, 0, 0, 1.42, 148, 342);
+  }
+  .path1_1309,
+  .path2_1309 {
+    transform: translate(1046px, 217px);
+  }
+  /*  16 ci mertebe 4 cu ev baslangic*/
+
+  .hareketliGrup_1311 {
+    transform: translate(326px, 666px);
+  }
+
+  .pathtranslatemove_1311 path:first-child {
+    transform: translate(33px, 203px) matrix(1.43, 0, 0, 1.47, 148, 342);
+  }
+
+  .path1_1311,
+  .path2_1311 {
+    transform: translate(332px, 612px);
+  }
+
+  /*  16 ci mertebe 5 ci ev baslangic*/
+
+  .hareketliGrup_1312 {
+    transform: translate(1058px, 666px);
+  }
+
+  .pathtranslatemove_1312 path:first-child {
+    transform: translate(703px, 60px) matrix(1.69, 0, 0, 1.5, 148, 342);
+  }
+
+  .path1_1312,
+  .path2_1312 {
+    transform: translate(1043px, 455px);
+  }
+
+  /*  16 ci mertebe 6 ci ev baslangic*/
+
+  .hareketliGrup_1313 {
+    transform: translate(1062px, 678px);
+    display: none;
+  }
+
+  .pathtranslatemove_1313 path:first-child {
+    transform: translate(704px, 201px) matrix(1.46, 0, 0, 1.47, 148, 342);
+  }
+  .path1_1313,
+  .path2_1313 {
+    transform: translate(1043px, 610px);
+  }
+
   /******************************  B  BLOKLARII  SON   ******************************/
 
   /************* A2 A3  "Blok isareleri" Satilmis eraziler ucun    *************/
@@ -6462,6 +6885,95 @@
   }
 
   /******************************  3 ci mertebe 7 ci ev son  ******************************************************************/
+
+  /* 16 ci mertebe ev 1 */
+
+  .hareketliGrup_1307 {
+    transform: translate(380px, 75px);
+  }
+
+  .pathtranslatemove_1307 path:first-child {
+    transform: translate(105px, -166px) matrix(1.25, 0, 0, 1.25, 148, 342);
+  }
+  .path1_1307,
+  .path2_1307 {
+    transform: translate(374px, 320px);
+  }
+
+  /*  16 ci mertebe 2 ci ev baslangic*/
+
+  .hareketliGrup_1308 {
+    transform: translate(688px, 75px);
+  }
+
+  .pathtranslatemove_1308 path:first-child {
+    transform: translate(382px, -172px) matrix(1.24, 0, 0, 1.27, 148, 342);
+  }
+
+  .path1_1308,
+  .path2_1308 {
+    transform: translate(669px, 255px);
+  }
+
+  /*  16 cu mertebe 3 ci ev*/
+
+  .hareketliGrup_1309 {
+    transform: translate(990px, 75px);
+  }
+
+  .pathtranslatemove_1309 path:first-child {
+    transform: translate(670px, -166px) matrix(1.25, 0, 0, 1.24, 148, 342);
+  }
+  .path1_1309,
+  .path2_1309 {
+    transform: translate(986px, 255px);
+  }
+
+  /*  16 ci mertebe 4 cu ev baslangic*/
+
+  .hareketliGrup_1311 {
+    transform: translate(393px, 592px);
+    display: none;
+  }
+
+  .pathtranslatemove_1311 path:first-child {
+    transform: translate(109px, 187px) matrix(1.23, 0, 0, 1.22, 148, 342);
+  }
+
+  .path1_1311,
+  .path2_1311 {
+    transform: translate(383px, 578px);
+  }
+
+  /*  16 ci mertebe 5 ci ev baslangic*/
+
+  .hareketliGrup_1312 {
+    transform: translate(909px, 620px);
+  }
+
+  .pathtranslatemove_1312 path:first-child {
+    transform: translate(684px, 63px) matrix(1.44, 0, 0, 1.24, 148, 342);
+  }
+
+  .path1_1312,
+  .path2_1312 {
+    transform: translate(982px, 443px);
+  }
+
+  /*  16 ci mertebe 6 ci ev baslangic*/
+
+  .hareketliGrup_1313 {
+    transform: translate(1062px, 627px);
+    display: none;
+  }
+
+  .pathtranslatemove_1313 path:first-child {
+    transform: translate(683px, 181px) matrix(1.26, 0, 0, 1.26, 148, 342);
+  }
+  .path1_1313,
+  .path2_1313 {
+    transform: translate(982px, 578px);
+  }
 
   /******************************  B  BLOKLARII  SON   ******************************/
 
