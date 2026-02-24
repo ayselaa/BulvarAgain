@@ -2414,10 +2414,10 @@
 
 /*3 ci mertebe 1 ci ev baslangic */
 
-.building__link_floor:hover #hareketliGrup_1207 {
+.building__link_floor:hover .hareketliGrup_1207 {
   display: block;
 }
-#hareketliGrup_1207 {
+.hareketliGrup_1207 {
   transform: translate(444px, 96px);
   display: none;
 }
@@ -2425,8 +2425,8 @@
 .pathtranslatemove_1207 path:first-child {
   transform: translate(163px, -140px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
-#path1_1207,
-#path2_1207 {
+.path1_1207,
+.path2_1207 {
   transform: translate(425px, 290px);
 }
 /*3 ci mertebe 1 ci ev son */
@@ -2439,11 +2439,11 @@
 
 /* Satisda olan erazi */
 
-.building__link_floor:hover #hareketliGrup_1208 {
+.building__link_floor:hover .hareketliGrup_1208 {
   display: block;
 }
 
-#hareketliGrup_1208 {
+.hareketliGrup_1208 {
   transform: translate(691px, 96px);
   display: none;
 }
@@ -2454,8 +2454,8 @@
 
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
-#path1_1208,
-#path2_1208 {
+.path1_1208,
+.path2_1208 {
   transform: translate(669px, 264px);
 }
 
@@ -2467,11 +2467,11 @@
 
 /* Satisda olan erazi */
 
-.building__link_floor:hover #hareketliGrup_1209 {
+.building__link_floor:hover .hareketliGrup_1209 {
   display: block;
 }
 
-#hareketliGrup_1209 {
+.hareketliGrup_1209 {
   transform: translate(975px, 96px);
   display: none;
 }
@@ -2482,8 +2482,8 @@
 
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
-#path1_1209,
-#path2_1209 {
+.path1_1209,
+.path2_1209 {
   transform: translate(958px, 264px);
 }
 
@@ -2496,11 +2496,11 @@
 
 /* Satisda olan erazi */
 
-.building__link_floor:hover #hareketliGrup_1210 {
+.building__link_floor:hover .hareketliGrup_1210 {
   display: block;
 }
 
-#hareketliGrup_1210 {
+.hareketliGrup_1210 {
   transform: translate(420px, 581px);
   display: none;
 }
@@ -2512,8 +2512,8 @@
 
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
-#path1_1210,
-#path2_1210 {
+.path1_1210,
+.path2_1210 {
   transform: translate(427px, 431px);
 }
 
@@ -2523,11 +2523,11 @@
 
 /* Satisda olan erazi */
 
-.building__link_floor:hover #hareketliGrup_1211 {
+.building__link_floor:hover .hareketliGrup_1211 {
   display: block;
 }
 
-#hareketliGrup_1211 {
+.hareketliGrup_1211 {
   transform: translate(393px, 592px);
   display: none;
 }
@@ -2537,8 +2537,8 @@
 }
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
-#path1_1211,
-#path2_1211 {
+.path1_1211,
+.path2_1211 {
   transform: translate(408px, 557px);
 }
 
@@ -2548,11 +2548,11 @@
 
 /* Satisda olan erazi */
 
-.building__link_floor:hover #hareketliGrup_1212 {
+.building__link_floor:hover .hareketliGrup_1212 {
   display: block;
 }
 
-#hareketliGrup_1212 {
+.hareketliGrup_1212 {
   transform: translate(900px, 581px);
   display: none;
 }
@@ -2563,8 +2563,8 @@
 
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
-#path1_1212,
-#path2_1212 {
+.path1_1212,
+.path2_1212 {
   transform: translate(949px, 438px);
 }
 
@@ -2574,11 +2574,11 @@
 
 /* Satisda olan erazi */
 
-.building__link_floor:hover #hareketliGrup_1213 {
+.building__link_floor:hover .hareketliGrup_1213 {
   display: block;
 }
 
-#hareketliGrup_1213 {
+.hareketliGrup_1213 {
   transform: translate(979px, 592px);
   display: none;
 }
@@ -2589,8 +2589,8 @@
 
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
-#path1_1213,
-#path2_1213 {
+.path1_1213,
+.path2_1213 {
   transform: translate(949px, 548px);
 }
 
