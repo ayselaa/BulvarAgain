@@ -2732,8 +2732,8 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1407 path:first-child {
-    transform: translate(161px, -140px) matrix(1.09, 0, 0, 1.09, 148, 342);
-}
+    transform: translate(162px, -118px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  }
 .path1_1407,
 .path2_1407 {
     transform: translate(425px, 362px);
@@ -2794,12 +2794,12 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1411 path:first-child {
-    transform: translate(161px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
-}
+    transform: translate(187px, 168px) matrix(1.07, 0, 0, 1.09, 148, 342);
+  }
 
 .path1_1411,
 .path2_1411 {
-  transform: translate(408px, 557px);
+    transform: translate(476px, 545px);
 }
 
 /*  17 ci mertebe 5 ci ev baslangic*/
