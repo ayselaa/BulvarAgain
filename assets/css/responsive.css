@@ -1,5 +1,14 @@
 /* Mobile */
 @media screen and (max-width: 480px) {
+    .switch-btn {
+        padding: 5px 0px;
+        font-size: 11px;
+        width: 66px;
+}
+.switch-wrapper {
+    right: 10px;
+    top: 10px;
+}
   .language-selector {
     margin: 5px;
   }
@@ -2149,6 +2158,11 @@
 
 /* Desktop */
 @media screen and (min-width: 768px) and (max-width: 1024px) {
+    .switch-btn {
+    padding: 8px 0px;
+    font-size: 18px;
+    width: 100px;
+}
   #hareketliGrup_269 {
     transform: translate(497px, -6px);
   }
@@ -4944,6 +4958,12 @@
 }
 
 @media (max-width: 768px) {
+
+  .switch-btn {
+    padding: 8px 0px;
+    font-size: 18px;
+    width: 100px;
+}
   /************* A1  "Blok isareleri" Satilmis eraziler ucun baslangic   *************/
   #hareketliGrup_269 {
     transform: translate(497px, -6px);

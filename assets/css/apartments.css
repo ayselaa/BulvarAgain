@@ -2409,9 +2409,6 @@
 
 /*  2 ci mertebe 7 ci ev  son*/
 
-
-
-
 /*3 ci mertebe 1 ci ev baslangic */
 
 .building__link_floor:hover .hareketliGrup_1207 {
@@ -2431,10 +2428,6 @@
 }
 /*3 ci mertebe 1 ci ev son */
 
-
-
-
-
 /*  3 cu mertebe 2 ci ev baslangic*/
 
 /* Satisda olan erazi */
@@ -2452,7 +2445,6 @@
   transform: translate(408px, -142px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
-
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 .path1_1208,
 .path2_1208 {
@@ -2460,8 +2452,6 @@
 }
 
 /*  3 cu mertebe 2 ci ev  son*/
-
-
 
 /*  3 cu mertebe 3 ci ev baslangic*/
 
@@ -2477,9 +2467,8 @@
 }
 
 .pathtranslatemove_1209 path:first-child {
-    transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
-  }
-
+  transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
+}
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 .path1_1209,
@@ -2488,9 +2477,6 @@
 }
 
 /*  3 cu mertebe 3 ci ev  son*/
-
-
-
 
 /*  3 ci mertebe 4 cu ev baslangic*/
 
@@ -2508,8 +2494,6 @@
 .pathtranslatemove_1210 path:first-child {
   transform: translate(166px, 62px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
-
-
 
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 .path1_1210,
@@ -2561,7 +2545,6 @@
   transform: translate(670px, 63px) matrix(1.27, 0, 0, 1.09, 148, 342);
 }
 
-
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 .path1_1212,
 .path2_1212 {
@@ -2587,7 +2570,6 @@
   transform: translate(677px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
 }
 
-
 /************* B mertebesi  "Blok isareleri" Satilmis eraziler ucun    *************/
 .path1_1213,
 .path2_1213 {
@@ -2595,7 +2577,6 @@
 }
 
 /*  3 ci mertebe 7 ci ev  son*/
-
 
 /* 16 ci mertebe ev 1 */
 
@@ -2608,13 +2589,12 @@
 }
 
 .pathtranslatemove_1307 path:first-child {
-    transform: translate(161px, -140px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(161px, -140px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 .path1_1307,
 .path2_1307 {
-    transform: translate(425px, 362px);
+  transform: translate(425px, 362px);
 }
-
 
 /*  16 ci mertebe 2 ci ev baslangic*/
 
@@ -2628,15 +2608,13 @@
 }
 
 .pathtranslatemove_1308 path:first-child {
-transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .path1_1308,
 .path2_1308 {
   transform: translate(669px, 264px);
 }
-
-
 
 /*  16 cu mertebe 3 ci ev*/
 .building__link_floor:hover .hareketliGrup_1309 {
@@ -2649,14 +2627,13 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1309 path:first-child {
-    transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
-  }
+  transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
+}
 
 .path1_1309,
 .path2_1309 {
   transform: translate(958px, 264px);
 }
-
 
 /*  16 ci mertebe 4 cu ev baslangic*/
 
@@ -2670,7 +2647,7 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1311 path:first-child {
-    transform: translate(161px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
+  transform: translate(161px, 170px) matrix(1.07, 0, 0, 1.09, 148, 342);
 }
 
 .path1_1311,
@@ -2679,7 +2656,6 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 /*  16 ci mertebe 5 ci ev baslangic*/
-
 
 .building__link_floor:hover .hareketliGrup_1312 {
   display: block;
@@ -2698,7 +2674,6 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 .path2_1312 {
   transform: translate(949px, 438px);
 }
-
 
 /*  16 ci mertebe 6 ci ev baslangic*/
 
@@ -2720,7 +2695,6 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
   transform: translate(949px, 548px);
 }
 
-
 /* 17 ci mertebe ev 1 */
 
 .building__link_floor:hover .hareketliGrup_1407 {
@@ -2732,13 +2706,12 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1407 path:first-child {
-    transform: translate(162px, -118px) matrix(1.09, 0, 0, 1.09, 148, 342);
-  }
+  transform: translate(162px, -118px) matrix(1.09, 0, 0, 1.09, 148, 342);
+}
 .path1_1407,
 .path2_1407 {
-    transform: translate(425px, 362px);
+  transform: translate(425px, 362px);
 }
-
 
 /*  17 ci mertebe 2 ci ev baslangic*/
 
@@ -2752,15 +2725,13 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1408 path:first-child {
-transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
+  transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .path1_1408,
 .path2_1408 {
   transform: translate(669px, 264px);
 }
-
-
 
 /*  17 cu mertebe 3 ci ev*/
 .building__link_floor:hover .hareketliGrup_1409 {
@@ -2773,14 +2744,13 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1409 path:first-child {
-    transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
-  }
+  transform: translate(659px, -139px) matrix(1.09, 0, 0, 1.09, 148, 342);
+}
 
 .path1_1409,
 .path2_1409 {
   transform: translate(958px, 264px);
 }
-
 
 /*  17 ci mertebe 4 cu ev baslangic*/
 
@@ -2794,16 +2764,15 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 }
 
 .pathtranslatemove_1411 path:first-child {
-    transform: translate(187px, 168px) matrix(1.07, 0, 0, 1.09, 148, 342);
-  }
+  transform: translate(187px, 168px) matrix(1.07, 0, 0, 1.09, 148, 342);
+}
 
 .path1_1411,
 .path2_1411 {
-    transform: translate(476px, 545px);
+  transform: translate(476px, 545px);
 }
 
 /*  17 ci mertebe 5 ci ev baslangic*/
-
 
 .building__link_floor:hover .hareketliGrup_1412 {
   display: block;
@@ -2823,7 +2792,6 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
   transform: translate(949px, 438px);
 }
 
-
 /*  17 ci mertebe 6 ci ev baslangic*/
 
 .building__link_floor:hover .hareketliGrup_1413 {
@@ -2842,4 +2810,59 @@ transform: translate(408px, -136px) matrix(1.09, 0, 0, 1.09, 148, 342);
 .path1_1413,
 .path2_1413 {
   transform: translate(949px, 548px);
+}
+
+/* ana sehife tab css */
+
+.switch-wrapper {
+  position: absolute;
+  top: 30px;
+  right: 100px;
+  z-index: 1;
+}
+
+.switch-btn {
+  border: none;
+  padding: 12px 22px;
+  border-radius: 50px;
+  font-size: 24px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: white;
+  color: #2e4177;
+  font-family: Inter;
+  width: 132px;
+}
+
+.switch-btn.active {
+  background: #2e4177;
+  color: white;
+}
+
+.switch-btn:hover {
+  opacity: 0.85;
+}
+
+.buttons_buildings_change {
+  border-radius: 50px;
+  display: flex;
+  gap: 5px;
+}
+
+.relative_project {
+  position: relative;
+}
+
+.project_home {
+  display: none;
+}
+
+.project_home.active {
+  display: block;
+}
+
+
+.building_tab2{
+         transform: translate(296px, -170px) matrix(0.96, 0, 0, 0.945, 255, 267);
 }
